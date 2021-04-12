@@ -14,7 +14,7 @@ Mainly developed recommendation system using Matrix factorisation methods and Au
 
 1) For the matrix factorisation run the MatrixFactorisation.ipynb on google collab, upload the files from the data folder onto your personal drive and mount it to run the file.
 2) Used KNN as a baseline model, the code for this is availble in MatrixFactorisation.ipynb as well
-3) For the Autoencoders __
+3) For the Autoencodersrun the AutoRec.ipynb on google collab, upload the ml-100k/ml-1m folder from the data folder into your personal drive, modify the path in ipynb and run
 
 
 ## Evaluations
