@@ -1,0 +1,8 @@
+Algorithm : KNN
+Rmse Score : 0.950594
+Algorithm : SVD
+Rmse Score : 0.864196
+Algorithm : NMF
+Rmse Score : 0.926596
+Algorithm : Autoencoder
+Rmse Score : 0.869227
